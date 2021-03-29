@@ -1,6 +1,8 @@
 ### Hi there👋, My name is Alex im 19 years old
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
+
 
 
 ### - 🔭 I’m currently working on Python, Javascript,Ruby
