@@ -1,8 +1,5 @@
 ### Hi there👋, My name is Alex im 19 years old
 
-![Discord](https://discord.c99.nl/widget/theme-3/817259481133088809.png)
-
-
 ### - 🔭 I’m currently working on Python, Javascript,Ruby
 ### - 🌱 I’m currently learning Rust,c++,c#
 ### - ⚡ Fun fact: Dab
