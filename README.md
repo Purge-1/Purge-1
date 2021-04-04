@@ -3,8 +3,8 @@
 ### - 🔭 I’m currently working on Python, Javascript,Ruby, c++
 ### - 🌱 I’m currently learning Rust,typescript,c#
 ### - ⚡ Fun fact: JavaScript >>>> Python
-### - My Discord: Purge#0005
-### - My Projects: Nothing Currently
+### - My Discord: Purge#1338
+### - My Projects: Bobert 
 ### - Favorite Tool <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Purge-1&theme=dracula&count_private=true"></div>
