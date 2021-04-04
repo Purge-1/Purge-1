@@ -2,7 +2,7 @@
 
 ### - 🔭 I’m currently working on Python, Javascript,Ruby, c++
 ### - 🌱 I’m currently learning Rust,typescript,c#
-### - ⚡ Fun fact: Dab
+### - ⚡ Fun fact: JavaScript >>>> Python
 ### - My Discord: Purge#0005
 ### - My Projects: Nothing Currently
 ### - Favorite Tool <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
