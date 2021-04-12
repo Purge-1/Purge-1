@@ -1,7 +1,7 @@
 ### Hi there👋, My name is Alex im 19 years old
 
-### - 🔭 I’m currently working on Python, Javascript,Ruby, c++
-### - 🌱 I’m currently learning Rust,typescript,c#
+### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeSceipt
+### - 🌱 I’m currently learning Rust
 ### - ⚡ Fun fact: JavaScript >>>> Python
 ### - My Discord: Purge#1338
 ### - My Projects: Bobert 
