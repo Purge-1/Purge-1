@@ -3,7 +3,7 @@
 ### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeSceipt
 ### - 🌱 I’m currently learning Rust
 ### - ⚡ Fun fact: JavaScript >>>> Python
-### - My Discord: Purge#6546
+### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#1000
 ### - My Projects: Nothing 
 ### - Favorite Tool <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 
