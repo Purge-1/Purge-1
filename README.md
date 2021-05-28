@@ -1,6 +1,6 @@
 ### Hi there👋, My name is Alex im 19 years old
 
-### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeSceipt
+### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeScript
 ### - 🌱 I’m currently learning Rust
 ### - ⚡ Fun fact: JavaScript >>>> Python
 ### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#1000
