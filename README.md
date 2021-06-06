@@ -4,7 +4,7 @@
 ### - 🌱 I’m currently learning Rust
 ### - ⚡ Fun fact: JavaScript >>>> Python
 ### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#1000
-### - My Projects: discord-random 
+### - My Projects: GrowtopiaNoobs, TS Server, discord-random, pogtopiav2
 ### - Favorite Tool <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Purge-1&theme=dracula&count_private=true"></div>
