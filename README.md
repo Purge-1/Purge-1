@@ -5,7 +5,7 @@
 ### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeScript
 ### - 🌱 I’m currently learning Rust
 ### - ⚡ Fun fact: JavaScript >>>> Python
-### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#1000
+### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#0003
 ### - My Projects: **GrowtopiaNoobs**
 ### - Favorite Tools:
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
