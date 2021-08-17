@@ -15,6 +15,7 @@
 <img alt="Intellij Idea" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//intellij-idea.svg"/>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Purge-1&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=purge-1&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purge-1&theme=tokyonight&hide=batchfile">
+<a href="https://discord.com/users/877106837709799434"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/335988287913066498?bg=23283d&borderRadius=8px"/><z
 
 ```js
 const sussybaka = new MessageEmbed()
