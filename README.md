@@ -3,7 +3,7 @@
 
 
 ### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeScript
-### - 🌱 I’m currently learning Java
+### - 🌱 I’m currently learning GDScript
 ### - ⚡ Fun fact: JavaScript >>>> Python
 ### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#3010
 ### - Down Below you'll find a sussy baka 👀
