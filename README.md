@@ -2,8 +2,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 
-### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeScript
-### - 🌱 I’m currently learning GDScript
+### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeScript, CSharp, GDScript
+### - 🌱 I’m currently learning C++
 ### - ⚡ Fun fact: JavaScript >>>> Python
 ### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#3010
 ### - Down Below you'll find a sussy baka 👀
