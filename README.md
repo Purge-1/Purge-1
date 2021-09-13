@@ -5,7 +5,7 @@
 ### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeScript, CSharp, GDScript
 ### - 🌱 I’m currently learning C++, Next.js
 ### - ⚡ Fun fact: JavaScript >>>> Python
-### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#3010
+### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Purge#1234
 ### - Down Below you'll find a sussy baka 👀
 ### - Favorite Tools:
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
