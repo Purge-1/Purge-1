@@ -1,11 +1,11 @@
-### Hi there👋, My name is Alex im 19 years old
+### Hi there👋, My name is Alex im 20 years old
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 
 ### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeScript, CSharp, GDScript
 ### - 🌱 I’m currently learning C++, Next.js
 ### - ⚡ Fun fact: JavaScript >>>> Python
-### - Contact me! Email: theamazingpurge1234@gmail.com Discord: Alex H.#5594
+### - Contact me! Email: theamazingpurge1234@gmail.com Discord: VorteX#0001
 ### - Down Below you'll find a sussy baka 👀
 ### - Favorite Tools:
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
