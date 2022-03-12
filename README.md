@@ -1,7 +1,7 @@
 ### Hi there👋, My name is Alex im 20 years old
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-
+### - Projects: https://discord.gg/ad3PVyApU7 CPers a open-source programming languge thats in development.
 ### - 🔭 I’m currently working on Python, Javascript,Ruby, TypeScript, CSharp, GDScript
 ### - 🌱 I’m currently learning C++, Next.js
 ### - ⚡ Fun fact: JavaScript >>>> Python
